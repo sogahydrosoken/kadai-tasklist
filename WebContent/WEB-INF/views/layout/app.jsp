@@ -6,11 +6,11 @@
         <title>タスク管理</title>
     </head>
     <body>
-        <div id="wrapper">
-            <div id="header">
+        <div>
+            <div>
                 <h1>タスク管理 アプリケーション</h1>
             </div>
-            <div id="content">
+            <div>
                 ${param.content}
             </div>
         </div>
